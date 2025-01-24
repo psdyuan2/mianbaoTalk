@@ -10,7 +10,7 @@ DeepSeek-R1-Zero完全依赖 **纯强化学习（RL）** 进行训练，跳过�
 通过 GRPO（Group Relative Policy Optimization）算法，模型在没有任何人类示范数据的情况下，自主探索和优化推理能力。
 这种方法使得模型能够发展出更原生的推理能力，但也导致了输出可读性较差的问题。
 ## 性能表现的区别
-DeepSeek-R1: 
+DeepSeek-R1:  
 
 在多个基准测试中表现优异，例如在 AIME 2024 数学竞赛中达到了 79.8% 的准确率，接近 OpenAI 的 o1 正式版（79.2%）。
 在编程任务（如 Codeforces）和自然语言推理任务（如 MMLU）中也表现出色。
